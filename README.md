@@ -1,5 +1,11 @@
 # qube-calib-env
 
+## Caution
+
+- Do not use `git add --update`
+- Be careful in case updating submodules
+  - Update only submodule version, not include modifications
+
 ## Setup
 
 ```
