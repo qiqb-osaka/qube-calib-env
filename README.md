@@ -11,6 +11,7 @@
 ```
 % git clone https://github.com/qiqb-osaka/qube-calib-env.git
 % cd qube-calib-env
+% git submodule update --init
 % pipenv install
 % cd adi_api_mod
 % make
